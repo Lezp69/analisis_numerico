@@ -1,2 +1,2 @@
-# procesos_estocasticos
- procesos_estocasticos_2024
+# analisis_numerico
+ analisis_numerico_2024
